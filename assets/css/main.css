@@ -1717,15 +1717,14 @@ input, select, textarea {
 		.button.large {
 			font-size: 1.0em;
 			letter-spacing: -0.025em;
-			left: 5cm;
-			top: 3cm;
+			left: 0cm
 		}
 
-		input[type="button"].small,
-		input[type="submit"].small,
-		input[type="reset"].small,
-		button.small,
-		.button.small {
+		input[type="button"].large,
+		input[type="submit"].large,
+		input[type="reset"].large,
+		button.large,
+		.button.large {
 			font-size: 1.0em;
 			letter-spacing: -0.025em;
 		
